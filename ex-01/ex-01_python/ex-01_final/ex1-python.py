@@ -2,7 +2,7 @@
 #Versao do Python Utilizada Python 3
 #Matéria Técnicas de Programação - Prof. Jean Marcelo Simao
 
-#Exercicio 1   
+#Exercicio 1
 
 class Horario:
     def __init__(self,hora,min):
