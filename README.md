@@ -43,12 +43,12 @@ Cada exercício é implementado em um arquivo separado para C++ e Java, seguindo
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/tecprog10/basico.git
+   git clone https://github.com/tecprogExercicios22/Basico
 
 2. **Acesse o Diretŕio:**
 
    ```bash
-   cd basico
+   cd Basico
 
 3. **Escolha um Exercício:**
 
